@@ -1,0 +1,2 @@
+# MyStock
+Objetivo: Sistema App de gerenciamento de estoque e vendas. O aplicativo registra por loja os produtos armazenando os seguintes dados: categoria do produto, nome do produto, quantidade em estoque, valor de compra e valor de venda. Deve permitir ao usuário ao usuário visualizar um relatório em tempo real das saídas dos produtos em estoque e o valor total das vendas filtrando por dia, semana e mês.
